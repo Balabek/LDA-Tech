@@ -1,0 +1,77 @@
+/* Helvetica Neue */
+
+@font-face {
+    font-family: 'ProximaNovaReg';
+    src: url('../fonts/Proxima%20Nova%20Alt%20Regular.eot') format('eot'),
+    url('../fonts/Proxima%20Nova%20Alt%20Regular.woff') format('woff'),
+    url('../fonts/Proxima%20Nova%20Alt%20Regular.woff2') format('woff2'),
+    url('../fonts/Proxima%20Nova%20Alt%20Regular.ttf') format('truetype'),
+    url('../fonts/Proxima%20Nova%20Alt%20Regular.svg') format('svg'),
+    url('../fonts/Proxima%20Nova%20Alt%20Regular.otf') format('otf');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaBold';
+    src: url('../fonts/Proxima%20Nova%20Bold.eot') format('eot'),
+    url('../fonts/Proxima%20Nova%20Bold.woff') format('woff'),
+    url('../fonts/Proxima%20Nova%20Bold.woff2') format('woff2'),
+    url('../fonts/Proxima%20Nova%20Bold.ttf') format('truetype'),
+    url('../fonts/Proxima%20Nova%20Bold.svg') format('svg'),
+    url('../fonts/Proxima%20Nova%20Bold.otf') format('otf');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaLite';
+    src: url('../fonts/Proxima%20Nova%20Alt%20Light.eot') format('eot'),
+    url('../fonts/Proxima%20Nova%20Alt%20Light.woff') format('woff'),
+    url('../fonts/Proxima%20Nova%20Alt%20Light.woff2') format('woff2'),
+    url('../fonts/Proxima%20Nova%20Alt%20Light.ttf') format('truetype'),
+    url('../fonts/Proxima%20Nova%20Alt%20Light.svg') format('svg'),
+    url('../fonts/Proxima%20Nova%20Alt%20Light.otf') format('otf');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ProximaNovaXtrabold';
+    src: url('../fonts/Proxima%20Nova%20Alt%20Extrabold.ttf') format('eot'),
+    url('../fonts/Proxima%20Nova%20Alt%20Extrabold.woff') format('woff'),
+    url('../fonts/Proxima%20Nova%20Alt%20Extrabold.woff2') format('woff2'),
+    url('../fonts/Proxima%20Nova%20Alt%20Extrabold.ttf') format('truetype'),
+    url('../fonts/Proxima%20Nova%20Alt%20Extrabold.svg') format('svg'),
+    url('../fonts/Proxima%20Nova%20Alt%20Extrabold.otf') format('otf');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+.proxima_reg {
+    font-family: "ProximaNovaReg", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.proxima_bold {
+    font-family: "ProximaNovaBold", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.proxima_xtra_bold {
+    font-family: "ProximaNovaXtrabold", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.proxima_lite {
+    font-family: "ProximaNovaLite", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
